@@ -1,0 +1,3403 @@
+{
+	"GatherableTextData": [],
+	"ImportTable": [
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "Actor",
+			"OuterIndex": -34,
+			"ObjectName": "Default__Actor",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "Blueprint",
+			"OuterIndex": -28,
+			"ObjectName": "StandardMacros",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "EdGraphSchema_K2",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_CallArrayFunction",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_CallFunction",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_Event",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_FunctionEntry",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_MacroInstance",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_PromotableOperator",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -32,
+			"ObjectName": "K2Node_VariableGet",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -33,
+			"ObjectName": "Function",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -33,
+			"ObjectName": "Object",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "Actor",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "Blueprint",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "BlueprintGeneratedClass",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "EdGraph",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "InstancedStaticMeshComponent",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "KismetArrayLibrary",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "KismetMathLibrary",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "SceneComponent",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "SCS_Node",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "SimpleConstructionScript",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -34,
+			"ObjectName": "StaticMesh",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "EdGraph",
+			"OuterIndex": -2,
+			"ObjectName": "ForLoop",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Function",
+			"OuterIndex": -13,
+			"ObjectName": "UserConstructionScript",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "KismetArrayLibrary",
+			"OuterIndex": -34,
+			"ObjectName": "Default__KismetArrayLibrary",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "KismetMathLibrary",
+			"OuterIndex": -34,
+			"ObjectName": "Default__KismetMathLibrary",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Engine/EditorBlueprintResources/StandardMacros",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Game/Fab/Bunker_O3_23_A-160_Z/bunker_o323a_160_z/StaticMeshes/bunker_o323a_160_z",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Game/Fab/Plane_tree_trunk/plane_tree_trunk/StaticMeshes/plane_tree_trunk",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Game/Fab/Tree/pine_tree",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/BlueprintGraph",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/CoreUObject",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/Engine",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "ScriptStruct",
+			"OuterIndex": -33,
+			"ObjectName": "Rotator",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "ScriptStruct",
+			"OuterIndex": -33,
+			"ObjectName": "Transform",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "ScriptStruct",
+			"OuterIndex": -33,
+			"ObjectName": "Vector",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "StaticMesh",
+			"OuterIndex": -29,
+			"ObjectName": "bunker_o323a_160_z",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "StaticMesh",
+			"OuterIndex": -30,
+			"ObjectName": "plane_tree_trunk",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/Engine",
+			"ClassName": "StaticMesh",
+			"OuterIndex": -31,
+			"ObjectName": "pine_tree",
+			"PackageName": "None",
+			"bImportOptional": false
+		}
+	],
+	"ExportTable": [
+		{
+			"ClassIndex": -14,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "ProceduralGenerationBP",
+			"ObjectFlags": 11,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": true,
+			"bNotForServer": true,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": true,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -15,
+			"SuperIndex": -13,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "ProceduralGenerationBP_C",
+			"ObjectFlags": 9,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": true,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -16,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 1,
+			"ObjectName": "EventGraph",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -16,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 1,
+			"ObjectName": "UserConstructionScript",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -11,
+			"SuperIndex": -25,
+			"TemplateIndex": 0,
+			"OuterIndex": 2,
+			"ObjectName": "UserConstructionScript",
+			"ObjectFlags": 1,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -17,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 2,
+			"ObjectName": "EnvironmentObjects_GEN_VARIABLE",
+			"ObjectFlags": 41,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -4,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallArrayFunction_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_10",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_11",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_12",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_13",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_15",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_19",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_20",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_6",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_7",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_8",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_CallFunction_9",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -6,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 3,
+			"ObjectName": "K2Node_Event_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -6,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 3,
+			"ObjectName": "K2Node_Event_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -6,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 3,
+			"ObjectName": "K2Node_Event_2",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -7,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_FunctionEntry_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -8,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_MacroInstance_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -9,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_PromotableOperator_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -9,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_PromotableOperator_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_11",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_12",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_13",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_2",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_3",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_4",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 4,
+			"ObjectName": "K2Node_VariableGet_9",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": 2,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "Default__ProceduralGenerationBP_C",
+			"ObjectFlags": 57,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -20,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 2,
+			"ObjectName": "DefaultSceneRoot_GEN_VARIABLE",
+			"ObjectFlags": 41,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -21,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 38,
+			"ObjectName": "SCS_Node_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -21,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 38,
+			"ObjectName": "SCS_Node_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -22,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 2,
+			"ObjectName": "SimpleConstructionScript_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		}
+	],
+	"Thumbnails": {},
+	"MetaData": {
+		"NumObjectMetaDataMap": 11,
+		"NumRootMetaDataMap": 1,
+		"ObjectMetaDataMap": [
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:UserConstructionScript.K2Node_FunctionEntry_0",
+				[
+					[
+						"DefaultGraphNode",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.SKEL_ProceduralGenerationBP_C:UserConstructionScript",
+				[
+					[
+						"BlueprintInternalUseOnly",
+						"true"
+					],
+					[
+						"Comment",
+						"/**\n\t * Construction script, the place to spawn components and do other setup.\n\t * @note Name used in CreateBlueprint function\n\t */"
+					],
+					[
+						"DisplayName",
+						"Construction Script"
+					],
+					[
+						"ModuleRelativePath",
+						"Classes/GameFramework/Actor.h"
+					],
+					[
+						"ToolTip",
+						"Construction script, the place to spawn components and do other setup.\n@note Name used in CreateBlueprint function"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.SKEL_ProceduralGenerationBP_C",
+				[
+					[
+						"BlueprintType",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP_C",
+				[
+					[
+						"BlueprintType",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:EventGraph.K2Node_Event_0",
+				[
+					[
+						"DefaultGraphNode",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:EventGraph.K2Node_Event_1",
+				[
+					[
+						"DefaultGraphNode",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:EventGraph.K2Node_Event_2",
+				[
+					[
+						"DefaultGraphNode",
+						"true"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.SKEL_ProceduralGenerationBP_C:ReceiveTick",
+				[
+					[
+						"Comment",
+						"/** Event called every frame, if ticking is enabled */"
+					],
+					[
+						"DisplayName",
+						"Tick"
+					],
+					[
+						"ModuleRelativePath",
+						"Classes/GameFramework/Actor.h"
+					],
+					[
+						"ToolTip",
+						"Event called every frame, if ticking is enabled"
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.SKEL_ProceduralGenerationBP_C:ReceiveActorBeginOverlap",
+				[
+					[
+						"Category",
+						"Collision"
+					],
+					[
+						"Comment",
+						"/** \n\t *\tEvent when this actor overlaps another actor, for example a player walking into a trigger.\n\t *\tFor events when objects have a blocking collision, for example a player hitting a wall, see 'Hit' events.\n\t *\t@note Components on both this and the other Actor must have bGenerateOverlapEvents set to true to generate overlap events.\n\t */"
+					],
+					[
+						"DisplayName",
+						"ActorBeginOverlap"
+					],
+					[
+						"ModuleRelativePath",
+						"Classes/GameFramework/Actor.h"
+					],
+					[
+						"ToolTip",
+						"Event when this actor overlaps another actor, for example a player walking into a trigger.\nFor events when objects have a blocking collision, for example a player hitting a wall, see 'Hit' events.\n@note Components on both this and the other Actor must have bGenerateOverlapEvents set to true to generate overlap events."
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.SKEL_ProceduralGenerationBP_C:ReceiveBeginPlay",
+				[
+					[
+						"Comment",
+						"/** Event when play begins for this actor. */"
+					],
+					[
+						"DisplayName",
+						"BeginPlay"
+					],
+					[
+						"ModuleRelativePath",
+						"Classes/GameFramework/Actor.h"
+					],
+					[
+						"ToolTip",
+						"Event when play begins for this actor."
+					]
+				]
+			],
+			[
+				"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP_C:UserConstructionScript",
+				[
+					[
+						"BlueprintInternalUseOnly",
+						"true"
+					],
+					[
+						"Comment",
+						"/**\n\t * Construction script, the place to spawn components and do other setup.\n\t * @note Name used in CreateBlueprint function\n\t */"
+					],
+					[
+						"DisplayName",
+						"Construction Script"
+					],
+					[
+						"ModuleRelativePath",
+						"Classes/GameFramework/Actor.h"
+					],
+					[
+						"ToolTip",
+						"Construction script, the place to spawn components and do other setup.\n@note Name used in CreateBlueprint function"
+					]
+				]
+			]
+		],
+		"RootMetaDataMap": [
+			[
+				"PackageLocalizationNamespace",
+				"5E0D4396888E2592A09CF67889472AFF"
+			]
+		]
+	},
+	"Exports": {
+		"ProceduralGenerationBP": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "c63b29f70200d7f7e6123d2eabecec1a28b62295",
+					"Base64": [
+						"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"
+					]
+				},
+				"Objects": [
+					"-13",
+					"38",
+					"3",
+					"4",
+					"-23",
+					null,
+					"2"
+				],
+				"Names": [
+					"ParentClass",
+					"ObjectProperty",
+					"BlueprintSystemVersion",
+					"IntProperty",
+					"SimpleConstructionScript",
+					"UbergraphPages",
+					"ArrayProperty",
+					"FunctionGraphs",
+					"NewVariables",
+					"StructProperty",
+					"BPVariableDescription",
+					"/Script/Engine",
+					"VarName",
+					"NameProperty",
+					"EnvironmentMeshes",
+					"VarGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"VarType",
+					"EdGraphPinType",
+					"object",
+					"None",
+					"FriendlyName",
+					"StrProperty",
+					"Category",
+					"TextProperty",
+					"PropertyFlags",
+					"UInt64Property",
+					"RepNotifyFunc",
+					"ReplicationCondition",
+					"ByteProperty",
+					"ELifetimeCondition",
+					"COND_None",
+					"MetaDataArray",
+					"BPVariableMetaDataEntry",
+					"DefaultValue",
+					"SpawnCount",
+					"int",
+					"AreaSize",
+					"real",
+					"double",
+					"MinScale",
+					"MaxScale",
+					"MinDistance",
+					"NumberOfObjects",
+					"CategorySorting",
+					"Default",
+					"Event Graph",
+					"LastEditedDocuments",
+					"EditedDocumentInfo",
+					"EditedObjectPath",
+					"SoftObjectPath",
+					"SavedViewOffset",
+					"DeprecateSlateVector2D",
+					"/Script/SlateCore",
+					"SavedZoomAmount",
+					"FloatProperty",
+					"GeneratedClass",
+					"bLegacyNeedToPurgeSkelRefs",
+					"BoolProperty",
+					"BlueprintGuid"
+				],
+				"SoftObjectPaths": [
+					"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:EventGraph",
+					"Object:/Game/ProceduralGenerationBP.ProceduralGenerationBP:UserConstructionScript"
+				]
+			}
+		},
+		"ProceduralGenerationBP_C": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "7fe7967925e60a626ac0b1523e3a884fd2cb881e",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAQAAAAAAAAAAAIAAAADAAAAAgAAAAQAAAAAAAAABQAAAAEAAAAGAAAAAQAAAAcAAAAAAAAAlAAAAAgAAAAABwAAAAgAAABJDxPw6R8u",
+						"R5eJAjG8OZ6bCQAAAABiJjOytiZIl7QslOXPx2UKAAAALkjetjiU4UyMaYzIJwWjNwsAAAD8TKRM6In9R7f1dqPtjWo5DAAAAGaBtXYTyqBKkXo4ga13cgAN",
+						"AAAA9COQbt0Eq0CnS/Hi7VIGjw4AAAAfhWQ9KXDMTaewxs7rVRDpDwAAAAAAAAABAAAAAQAAAAIAAAAJAAAAAQAAABAAAAAAAAAAAQAAAAEAAAARAAAACAAA",
+						"AERlZmF1bHQAAQAAAAgAAAAEAAgABAAAAAAADwAAAAADAAAAAQAAABIAAAAAAAAAAQAAAAEAAAARAAAACAAAAERlZmF1bHQAAQAAAAgAAAAEAAgABAAAAAAA",
+						"DwAAAAAEAAAAEwAAAA4AAAAAAAAAAQAAAAIAAAAUAAAAEwAAAEVudmlyb25tZW50IE1lc2hlcwARAAAACAAAAERlZmF1bHQAAQAAABAAAAAFAAEAAAAAAAAA",
+						"DwAAAAABAAAADgAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAAAADwAAAAAFAAAAFQAAAA0AAAAAAAAAAQAAAAIAAAAUAAAADAAAAFNwYXduIENvdW50ABEA",
+						"AAAIAAAARGVmYXVsdAABAAAABAAAAAUAAQAAAAAAAAAPAAAAABYAAAAMAAAAAAAAAAEAAAACAAAAFAAAAAoAAABBcmVhIFNpemUAEQAAAAgAAABEZWZhdWx0",
+						"AAEAAAAIAAAABQABAAAAAAAAAA8AAAAAFgAAAAsAAAAAAAAAAQAAAAIAAAAUAAAACgAAAE1pbiBTY2FsZQARAAAACAAAAERlZmF1bHQAAQAAAAgAAAAFAAEA",
+						"AAAAAAAADwAAAAAWAAAACgAAAAAAAAABAAAAAgAAABQAAAAKAAAATWF4IFNjYWxlABEAAAAIAAAARGVmYXVsdAABAAAACAAAAAUAAQAAAAAAAAAPAAAAABYA",
+						"AAAJAAAAAAAAAAEAAAACAAAAFAAAAA0AAABNaW4gRGlzdGFuY2UAEQAAAAgAAABEZWZhdWx0AAEAAAAIAAAABQABAAAAAAAAAA8AAAAAFQAAAAgAAAAAAAAA",
+						"AQAAAAIAAAAUAAAAEgAAAE51bWJlciBPZiBPYmplY3RzABEAAAAIAAAARGVmYXVsdAABAAAABAAAAAUAAQAAAAAAAAAPAAAAAAAAAAAAAAAAAQAAABcAAAAC",
+						"AAAABACEAAYAAAAYAAAABwAAAAAAAAAAAAAADwAAAAAAAAAIAAAA"
+					]
+				},
+				"Objects": [
+					"38",
+					"-13",
+					"5",
+					"-17",
+					"-20",
+					"-23",
+					"-12",
+					"1",
+					"34"
+				],
+				"Names": [
+					"SimpleConstructionScript",
+					"ObjectProperty",
+					"PropertyGuids",
+					"MapProperty",
+					"NameProperty",
+					"StructProperty",
+					"Guid",
+					"/Script/CoreUObject",
+					"NumberOfObjects",
+					"MinDistance",
+					"MaxScale",
+					"MinScale",
+					"AreaSize",
+					"SpawnCount",
+					"EnvironmentMeshes",
+					"None",
+					"EnvironmentObjects",
+					"Category",
+					"DefaultSceneRoot",
+					"ArrayProperty",
+					"DisplayName",
+					"IntProperty",
+					"DoubleProperty",
+					"UserConstructionScript",
+					"Engine"
+				]
+			}
+		},
+		"ProceduralGenerationBP:EventGraph": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"Schema": {
+						"__Type": "ObjectProperty",
+						"__Value": "-3"
+					},
+					"Nodes": {
+						"__Type": "ArrayProperty(ObjectProperty)",
+						"__Value": [
+							"19",
+							"20",
+							"21"
+						]
+					},
+					"bAllowDeletion": {
+						"__Type": "BoolProperty",
+						"__Value": 0
+					},
+					"GraphGuid": {
+						"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+						"__HasBinaryOrNativeSerialize": true,
+						"__Value": "6E264A8944929E819ED744BC0632D153"
+					}
+				}
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"Schema": {
+						"__Type": "ObjectProperty",
+						"__Value": "-3"
+					},
+					"Nodes": {
+						"__Type": "ArrayProperty(ObjectProperty)",
+						"__Value": [
+							"22",
+							"23",
+							"26",
+							"30",
+							"16",
+							"18",
+							"17",
+							"10",
+							"8",
+							"9",
+							"15",
+							"31",
+							"32",
+							"11",
+							"33",
+							"12",
+							"27",
+							"24",
+							"28",
+							"13",
+							"29",
+							"7",
+							"25",
+							"14"
+						]
+					},
+					"bAllowDeletion": {
+						"__Type": "BoolProperty",
+						"__Value": 0
+					},
+					"GraphGuid": {
+						"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+						"__HasBinaryOrNativeSerialize": true,
+						"__Value": "D32CBEED41D23F9246E80A831B3ACD88"
+					}
+				}
+			}
+		},
+		"ProceduralGenerationBP_C:UserConstructionScript": {
+			"BaseClassAutoGen": {
+				"Data": "Base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAAJwAAACMAAAAZAQEAAAABAAAAAQAAAA4AAAAAAAAAAgAAABsCAAAAFgQLUwAIAgwCAAAAAAAAAA==",
+				"Objects": [
+					"-25",
+					"2",
+					null
+				],
+				"Names": [
+					"None",
+					"EnvironmentObjects",
+					"ClearInstances"
+				]
+			}
+		},
+		"ProceduralGenerationBP_C:EnvironmentObjects_GEN_VARIABLE": {
+			"BaseClassAutoGen": {
+				"Data": "Base64:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAAAAAAQAAAAAAAAA",
+				"Names": [
+					"None"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallArrayFunction_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "fbad64a52e6907fddeb52308df447653b08c8e76",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAkAQAAA4AAAANAAAAAAAAAAQAAAAAoP7//w8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACK7Jic+427pN",
+						"j1QVYyKkxukLAAAAAAAAAAMAAAAAAAAAAQAAAGI5pk90XC5LnkBcnLV21YUBAAAAYjmmT3RcLkueQFyctXbVhRIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAACnr+bdl8OBBqCLBv81GeiUBAAAAKev5t2Xw4EGo",
+						"IsG/zUZ6JRQAAAAAAAAA/wAAAAD/////AAAAAAATAAAACwAAAAQAAAABAQAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAIAAAAAAAAA/wAAAAABAAAAAAAAAAUAAAB18cwJpwo5SqOV23BLqD+wAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAC+5L60C",
+						"P9ZOmDW87aU6X8kBAAAAL7kvrQI/1k6YNbztpTpfyRUAAAAAAAAA/wAAAAD/////AAAAAAEWAAAACwAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAMAACAAAAMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAGAAAAK78NM+HEUkaaO8z515MpLAAAAAABAAAAAQAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-18",
+					"7",
+					null,
+					"-26",
+					"-23",
+					"29",
+					"25"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"Array_Length",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"TargetArray",
+					"ReturnValue",
+					"int"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_10": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "ce9ddf672dceb04f217577e459fd2d2b7d498e96",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAcAMAAA4AAAANAAAAAAAAAAQAAAAAUAIAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACAITd2CULk9H",
+						"kVMB8yDDa/4LAAAAAAAAAAUAAAAAAAAAAQAAAG68AoD/ycBOsWEppZlKQW8BAAAAbrwCgP/JwE6xYSmlmUpBbxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAACj+Lp9pmHJJpXIxlTrCwvMBAAAAKP4un2mYckml",
+						"cjGVOsLC8xQAAAACAAAA/wEAAAAJAAAAWCAoUm9sbCkA/////wAAAAAAFQAAABYAAAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAKTb38KyAClN",
+						"tcHQNHe8gIYBAAAApNvfwrIAKU21wdA0d7yAhhcAAAACAAAA/wEAAAAKAAAAWSAoUGl0Y2gpAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAAL",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAEAAAAHslmw5rKoR4k0v7yvUYMKAQAAAAeyWbDmsqhHiTS/vK9RgwoYAAAAAgAAAP8BAAAACAAAAFogKFlhdykA/////wAAAAAAFQAAABYA",
+						"AAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAABAAAAAAAAAAQA",
+						"AADtXYnk3FKxTJUGSyLyv4RHAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAI8u9zDDoKhLp1ySOheQS3sBAAAAjy73MMOgqEunXJI6",
+						"F5BLexkAAAAAAAAA/wAAAAD/////AAAAAAEaAAAACwAAAAUAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAMCwg",
+						"MCwgMAAIAAAAMCwgMCwgMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAGAAAAr5p377BxS0W4qx/Y8VC2UAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-19",
+					"8",
+					null,
+					"-27",
+					"10",
+					"-35",
+					"11"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"MakeRotator",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Roll",
+					"real",
+					"float",
+					"Pitch",
+					"Yaw",
+					"ReturnValue",
+					"struct"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_11": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "92d4851062ebc04e7a013c39987edee4ca21433d",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAEAUAAA4AAAANAAAAAAAAAAQAAAAAkAMAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACGj/626WRxFG",
+						"vvO3ix9ixGwLAAAAAAAAAAUAAAAAAAAAAQAAABc+vpb8xyhAvwCHwJ6WzEkBAAAAFz6+lvzHKEC/AIfAnpbMSRIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAMWAKbNt9vZLuP6Ng8+feyYBAAAAxYAps2329ku4",
+						"/o2Dz597JhQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+						"MC4wAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAAO1dieTcUrFMlQZLIvK/hEcAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB",
+						"AAAAh9r9SUAwyEy4CqI2xn5pQAEAAACH2v1JQDDITLgKojbGfmlAFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAEAAAA7V2J5NxSsUyVBksi8r+ERwAAAAAB",
+						"AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABjU0Sj1e0dTqQVhM9z/K2AAQAAAGNTRKPV7R1OpBWEz3P8rYAYAAAAAAAAAP8AAAAA/////wAA",
+						"AAAAFQAAABYAAAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAAB",
+						"AAAAAAAAAAQAAADtXYnk3FKxTJUGSyLyv4RHAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAN5ypM2V/4xKkShVNQV3MKQBAAAA3nKk",
+						"zZX/jEqRKFU1BXcwpBkAAAAAAAAA/wAAAAD/////AAAAAAEaAAAACwAAAAUAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAIAAAAMCwgMCwgMAAIAAAAMCwgMCwgMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAGAAAASAZyD4CsPkiQM+uJyuC0wgAAAAABAAAAAQAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-19",
+					"9",
+					null,
+					"-27",
+					"15",
+					"-37",
+					"11"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"MakeVector",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"X",
+					"real",
+					"double",
+					"Y",
+					"Z",
+					"ReturnValue",
+					"struct"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_12": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "d0a45739f01db3af897f6bf2f50b6995b87f30ff",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAA0AEAAA4AAAANAAAAAAAAAAQAAAAAUAIAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACB2Y4wCl1ElL",
+						"sUwxD2y8g/QLAAAAAAAAAAQAAAAAAAAAAQAAAKu1fXHNILZMhvSCFoyApHMBAAAAq7V9cc0gtkyG9IIWjICkcxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAANBu5e4WCftCtjWOZF7D84EBAAAA0G7l7hYJ+0K2",
+						"NY5kXsPzgRQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+						"MzAuMDAwMDAwAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAc8ycQqIVukK+Kgg7/Gs0",
+						"hQEAAABzzJxCohW6Qr4qCDv8azSFFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAsAAAAzNjAuMDAwMDAwAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+						"7V2J5NxSsUyVBksi8r+ERwEAAADtXYnk3FKxTJUGSyLyv4RHGAAAAAAAAAD/AAAAAP////8AAAAAARUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAEAAAAB7JZsOayqEeJNL+8r1GDCgAAAAABAAAA",
+						"AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-19",
+					"10",
+					null,
+					"-27",
+					"8"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"RandomFloatInRange",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Min",
+					"real",
+					"double",
+					"Max",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_13": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "e30f0952b0c2c770cd4d14548ec98196fa156c7f",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAMAYAAA4AAAANAAAAAAAAAAQAAAAAwAEAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACNDnXfk7RCJI",
+						"jtBKthO9LHYLAAAAAAAAAAUAAAAAAAAAAQAAADDic2eosMVNsYqihmvpuWcBAAAAMOJzZ6iwxU2xiqKGa+m5ZxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAIaGwU1iJ3BNlq/uMyNhbpsBAAAAhobBTWIncE2W",
+						"r+4zI2FumxQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAACwAAAAQAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+						"MCwgMCwgMAAIAAAAMCwgMCwgMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAFAAAAUHp9fKlqzEmR0Yjceza7uwAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAEAAACvmnfvsHFLRbirH9jxULZQAQAAAK+ad++wcUtFuKsf2PFQtlAWAAAAAAAAAP8AAAAA/////wAAAAAAFQAAAAsAAAAGAAAAAAAAAAAAAAAA",
+						"AgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAADAsIDAsIDAACAAAADAsIDAsIDAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABwAAAI8u9zDD",
+						"oKhLp1ySOheQS3sAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAASAZyD4CsPkiQM+uJyuC0wgEAAABIBnIPgKw+SJAz64nK4LTCFwAA",
+						"AAAAAAD/AAAAAP////8AAAAAABUAAAALAAAABAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsAAAAxLjAwMDAwMCwx",
+						"LjAwMDAwMCwxLjAwMDAwMAAbAAAAMS4wMDAwMDAsMS4wMDAwMDAsMS4wMDAwMDAAAgAAAAAAAAD/AAAAAAEAAAAAAAAACAAAAN5ypM2V/4xKkShVNQV3MKQA",
+						"AAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAJz45f46Mhk6TwmqhFr+FGQEAAAAnPjl/joyGTpPCaqEWv4UZGAAAAAAAAAD/AAAAAP//",
+						"//8AAAAAARUAAAALAAAACQAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAD/AAAAAAEAAAAA",
+						"AAAACgAAAIEYNfKV6z9Oug1iguDHPqUAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					"-19",
+					"11",
+					null,
+					"-27",
+					"-37",
+					"17",
+					"-35",
+					"8",
+					"9",
+					"-36",
+					"13"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"MakeTransform",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Location",
+					"struct",
+					"Rotation",
+					"Scale",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_15": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "590ec0f361ec1309141b47e227a739f6fcf336c4",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAuAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAHAAAAAAAAAAQAAAAACAAAAAkAAAAKAAAACwAAAAAA",
+						"AAAEAAAAADABAAAMAAAACwAAAAAAAAAEAAAAAPD///8NAAAAAQAAAAEAAAAOAAAAAQAAAA8AAAAAAAAAEAAAAAg57+AAQeDuT5n0FK9D0mWWCQAAAAAAAAAD",
+						"AAAAAAAAAAEAAABVKiAJKwOgQKQTow2xkSQRAQAAAFUqIAkrA6BApBOjDbGRJBEQAAAAAAAAAP8AAAAA/////wAAAAAAEQAAAAkAAAACAAAAAAAAAAAAAAAA",
+						"AgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAQAAAAAAAAADAAAAxUlpHxUqu0C13YIgUDwtagAAAAAB",
+						"AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAADC9PDznJz2RIXzVV+FQ2pAAQAAAML08POcnPZEhfNVX4VDakASAAAAAAAAAP8AAAAA/////wAA",
+						"AAABEQAAAAkAAAACAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAAB",
+						"AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAADIQrLn2sQ+Ra+FRnSLj6HRAQAAAMhCsufaxD5Fr4VGdIuPodETAAAACAAAAAAHAAAASzJOb2Rl",
+						"AAcAAABUYXJnZXQABwAAAFRhcmdldAAAAAAA/////wAAAAAAFAAAAAkAAAAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAQAAAAAAAAAEAAAAJhRACr/430aqVx0FctmBEAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-17",
+					"12",
+					null,
+					"22",
+					"33"
+				],
+				"Names": [
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"ClearInstances",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"execute",
+					"exec",
+					"then",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_19": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "ade909f4c44a75be676f0d96762d2c2ab7857b74",
+					"Base64": [
+						"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"
+					]
+				},
+				"Objects": [
+					"-17",
+					"13",
+					null,
+					"23",
+					"28",
+					"-36",
+					"11"
+				],
+				"Names": [
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"AddInstance",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"execute",
+					"exec",
+					"then",
+					"self",
+					"object",
+					"InstanceTransform",
+					"struct",
+					"bWorldSpace",
+					"bool",
+					"ReturnValue",
+					"int"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_20": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "b9ce421a410f7661e1ad1fa61aae7c5642e83315",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAsAYAAA4AAAANAAAAAAAAAAQAAAAAsP7//w8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACJ5WBhnBKRxI",
+						"pF6SdXIZrVsLAAAAAAAAAAQAAAAAAAAAAQAAAOeIhiU0NAdMu9zIPXv2bw8BAAAA54iGJTQ0B0y73Mg9e/ZvDxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAGQ2kW3fpjBMkguO94ByUkgBAAAAZDaRbd+mMEyS",
+						"C473gHJSSBQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAACwAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+						"MAACAAAAMAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAhQ5Ea+h5eSqIzPWsU00IDAQAAACFDkRr6",
+						"Hl5KojM9axTTQgMWAAAAAAAAAP8AAAAA/////wAAAAAAFQAAAAsAAAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AgAAADAAAgAAADAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAAB2SDU3MPPtBhpZSg/ftBscAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB",
+						"AAAAaqBpS7DrIU+E/p2j5OU57gEAAABqoGlLsOshT4T+naPk5TnuFwAAAAAAAAD/AAAAAP////8AAAAAARUAAAALAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAwAAIAAAAwAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-19",
+					"14",
+					null,
+					"-27",
+					"25"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"RandomIntegerInRange",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Min",
+					"int",
+					"Max",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_6": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "9797f30cec40dee66d885f9375be843edf34ff8b",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAgAMAAA4AAAANAAAAAAAAAAQAAAAAoAMAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACHGgbNQNKYFM",
+						"qABHNBAhra0LAAAAAAAAAAQAAAAAAAAAAQAAAKu1fXHNILZMhvSCFoyApHMBAAAAq7V9cc0gtkyG9IIWjICkcxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAANBu5e4WCftCtjWOZF7D84EBAAAA0G7l7hYJ+0K2",
+						"NY5kXsPzgRQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+						"MC4wAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAAHTEYn6YcQ5GgOEb0HZfG/4AAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB",
+						"AAAAc8ycQqIVukK+Kgg7/Gs0hQEAAABzzJxCohW6Qr4qCDv8azSFFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAFAAAAYoKZiN6pVEaX2Vww/PaDCQAAAAAB",
+						"AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAADtXYnk3FKxTJUGSyLyv4RHAQAAAO1dieTcUrFMlQZLIvK/hEcYAAAAAAAAAP8AAAAA/////wAA",
+						"AAABFQAAABYAAAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAAD",
+						"AAAAAAAAAAYAAADFgCmzbfb2S7j+jYPPn3smAAAAAAYAAACH2v1JQDDITLgKojbGfmlAAAAAAAYAAABjU0Sj1e0dTqQVhM9z/K2AAAAAAAEAAAABAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-19",
+					"15",
+					null,
+					"-27",
+					"31",
+					"32",
+					"9"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"RandomFloatInRange",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Min",
+					"real",
+					"double",
+					"Max",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_7": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "7fe868d039c901bc25c4d90cbe8c131a6e9f14a3",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAA0AEAAA4AAAANAAAAAAAAAAQAAAAAIAEAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACBDmCNs7TtRI",
+						"urJ7yjH0yZkLAAAAAAAAAAQAAAAAAAAAAQAAAKu1fXHNILZMhvSCFoyApHMBAAAAq7V9cc0gtkyG9IIWjICkcxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAANBu5e4WCftCtjWOZF7D84EBAAAA0G7l7hYJ+0K2",
+						"NY5kXsPzgRQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+						"LTUwMDAuMDAwMDAwAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAc8ycQqIVukK+Kgg7",
+						"/Gs0hQEAAABzzJxCohW6Qr4qCDv8azSFFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAEAAAAP5tTSKs63kiymfN1m16TOwAAAAABAAAAAQAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAEAAADtXYnk3FKxTJUGSyLyv4RHAQAAAO1dieTcUrFMlQZLIvK/hEcYAAAAAAAAAP8AAAAA/////wAAAAABFQAAABYAAAACAAAA",
+						"AAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAABAAAAAAAAAAUAAABKqW6X",
+						"Uae0SLCAqwoWNbqoAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-19",
+					"16",
+					null,
+					"-27",
+					"26",
+					"17"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"RandomFloatInRange",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Min",
+					"real",
+					"double",
+					"Max",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_8": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "89587b0282024fc71bcf126a2c78b01154b4baa6",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAAgAMAAA4AAAANAAAAAAAAAAQAAAAAUAEAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACMbhwt6KG5pA",
+						"haE/A/JU6X4LAAAAAAAAAAUAAAAAAAAAAQAAADq3d1yV+GRPshPVr/eRengBAAAAOrd3XJX4ZE+yE9Wv95F6eBIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAEqpbpdRp7RIsICrChY1uqgBAAAASqlul1GntEiw",
+						"gKsKFjW6qBQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+						"MC4wAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAAO1dieTcUrFMlQZLIvK/hEcAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB",
+						"AAAAZQhI/HKD6Uu/FposGtoy1wEAAABlCEj8coPpS78Wmiwa2jLXFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAFAAAA7V2J5NxSsUyVBksi8r+ERwAAAAAB",
+						"AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABkfUS/GKX/QK9qIGl5QnwoAQAAAGR9RL8Ypf9Ar2ogaXlCfCgYAAAAAAAAAP8AAAAA/////wAA",
+						"AAAAFQAAABYAAAACAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAAA",
+						"AAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAFB6fXypasxJkdGI3Hs2u7sBAAAAUHp9fKlqzEmR0Yjceza7uxkAAAAAAAAA/wAA",
+						"AAD/////AAAAAAEaAAAACwAAAAYAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAMCwgMCwgMAAIAAAAMCwgMCwg",
+						"MAACAAAAAAAAAP8AAAAAAQAAAAAAAAAHAAAAhobBTWIncE2Wr+4zI2FumwAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-19",
+					"17",
+					null,
+					"-27",
+					"16",
+					"18",
+					"-37",
+					"11"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"MakeVector",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"X",
+					"real",
+					"double",
+					"Y",
+					"Z",
+					"ReturnValue",
+					"struct"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_CallFunction_9": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "09c6f38e7595def6e4cc5bf0740a7e4748485de3",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAAAAAAQAgAAAAMAAAABAAAABAAAAAEAAAAFAAAAAAAAAC4AAAAABgAAAAcAAAAAAAAABAAAAAAAAAAACAAAAAkAAAAAAAAABAAAAAAK",
+						"AAAACwAAAAwAAAANAAAAAAAAAAQAAAAA0AEAAA4AAAANAAAAAAAAAAQAAAAAsAEAAA8AAAADAAAAAQAAABAAAAABAAAAEQAAAAAAAAAQAAAACCCi7LaXm/FA",
+						"uqkyd5z9BfoLAAAAAAAAAAQAAAAAAAAAAQAAAKu1fXHNILZMhvSCFoyApHMBAAAAq7V9cc0gtkyG9IIWjICkcxIAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRh",
+						"cmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAATAAAACwAAAAAAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAMAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAANBu5e4WCftCtjWOZF7D84EBAAAA0G7l7hYJ+0K2",
+						"NY5kXsPzgRQAAAAAAAAA/wAAAAD/////AAAAAAAVAAAAFgAAAAIAAAAAAAAAAAAAAAACAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+						"LTUwMDAuMDAwMDAwAAQAAAAwLjAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAc8ycQqIVukK+Kgg7",
+						"/Gs0hQEAAABzzJxCohW6Qr4qCDv8azSFFwAAAAAAAAD/AAAAAP////8AAAAAABUAAAAWAAAAAgAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAQAAAAwLjAABAAAADAuMAACAAAAAAAAAP8AAAAAAQAAAAAAAAAEAAAAjm+hQob/r0mebiMTL4kAVgAAAAABAAAAAQAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAEAAADtXYnk3FKxTJUGSyLyv4RHAQAAAO1dieTcUrFMlQZLIvK/hEcYAAAAAAAAAP8AAAAA/////wAAAAABFQAAABYAAAACAAAA",
+						"AAAAAAAAAAAAAgAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4wAAIAAAAAAAAA/wAAAAABAAAAAAAAAAUAAABlCEj8",
+						"coPpS78Wmiwa2jLXAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-19",
+					"18",
+					null,
+					"-27",
+					"30",
+					"17"
+				],
+				"Names": [
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"RandomFloatInRange",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"self",
+					"object",
+					"Min",
+					"real",
+					"double",
+					"Max",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:EventGraph.K2Node_Event_0": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "5ffe5a3dea4df993d05f8be4a38902c0d7ac091e",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAuAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAHAAAAAAAAAAQAAAAACAAAAAkAAAAKAAAACwAAAAAA",
+						"AAAAAAAAEAwAAAANAAAAAgAAAA4AAAABAAAAAwAAAAAAAAAPAAAAAAAAAAQAAAAAEAAAABEAAAALAAAAAAAAAAAAAAAQEgAAAAsAAAAAAAAAAAAAABATAAAA",
+						"FAAAAAAAAABYAAAAAFQAAABUaGlzIG5vZGUgaXMgZGlzYWJsZWQgYW5kIHdpbGwgbm90IGJlIGNhbGxlZC4KRHJhZyBvZmYgcGlucyB0byBidWlsZCBmdW5j",
+						"dGlvbmFsaXR5LgAVAAAAAQAAAAEAAAAWAAAAAQAAABcAAAAAAAAAEAAAAAgoNsjbITtmRKF7FEUGLAJTCQAAAAAAAAACAAAAAAAAAAEAAABB3Knj4IPrSrty",
+						"4gvx+V9NAQAAAEHcqePgg+tKu3LiC/H5X00YAAAAAAAAAP8AAAAA/////wAAAAABGQAAAAkAAAACAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAABexUxwRThfSoOo",
+						"FfpYCVjdAQAAAF7FTHBFOF9Kg6gV+lgJWN0aAAAAAAAAAP8AAAAA/////wAAAAABGwAAAAkAAAACAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					"-13",
+					"19",
+					null
+				],
+				"Names": [
+					"EventReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"ReceiveBeginPlay",
+					"None",
+					"bOverrideFunction",
+					"BoolProperty",
+					"EnabledState",
+					"EnumProperty",
+					"ENodeEnabledState",
+					"ByteProperty",
+					"ENodeEnabledState::Disabled",
+					"bCommentBubblePinned",
+					"bCommentBubbleVisible",
+					"NodeComment",
+					"StrProperty",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"OutputDelegate",
+					"delegate",
+					"then",
+					"exec"
+				]
+			}
+		},
+		"ProceduralGenerationBP:EventGraph.K2Node_Event_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "e78d53b217cd21131496580e886aaebe1421f50b",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAuAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAHAAAAAAAAAAQAAAAACAAAAAkAAAAKAAAACwAAAAAA",
+						"AAAAAAAAEAwAAAANAAAAAAAAAAQAAAAA0AAAAA4AAAAPAAAAAgAAABAAAAABAAAAAwAAAAAAAAARAAAAAAAAAAQAAAAAEgAAABMAAAALAAAAAAAAAAAAAAAQ",
+						"FAAAAAsAAAAAAAAAAAAAABAVAAAAFgAAAAAAAABYAAAAAFQAAABUaGlzIG5vZGUgaXMgZGlzYWJsZWQgYW5kIHdpbGwgbm90IGJlIGNhbGxlZC4KRHJhZyBv",
+						"ZmYgcGlucyB0byBidWlsZCBmdW5jdGlvbmFsaXR5LgAXAAAAAQAAAAEAAAAYAAAAAQAAABkAAAAAAAAAEAAAAAjRgBCPIeBzRbTeVsbwiqqjCQAAAAAAAAAD",
+						"AAAAAAAAAAEAAABhWxt3EYoLTLvMfyxa1zTJAQAAAGFbG3cRigtMu8x/LFrXNMkaAAAAAAAAAP8AAAAA/////wAAAAABGwAAAAkAAAACAAAAAAAAAAAAAAAA",
+						"AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAEAAAD3OA6BGNoUQo0aE/lJATsQAQAAAPc4DoEY2hRCjRoT+UkBOxAcAAAAAAAAAP8AAAAA/////wAAAAABHQAAAAkAAAACAAAAAAAAAAAAAAAA",
+						"AgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAEAAADLhtezQK1MRKMwKMBA+kgGAQAAAMuG17NArUxEozAowED6SAYeAAAAAAAAAP8AAAAA/////yMAAABPdGhlciBBY3RvcgpBY3RvciBPYmpl",
+						"Y3QgUmVmZXJlbmNlAAEfAAAACQAAAAAAAAAAAAAAAAAAAAACAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA/wAA",
+						"AAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-13",
+					"20",
+					null
+				],
+				"Names": [
+					"EventReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"ReceiveActorBeginOverlap",
+					"None",
+					"bOverrideFunction",
+					"BoolProperty",
+					"NodePosY",
+					"IntProperty",
+					"EnabledState",
+					"EnumProperty",
+					"ENodeEnabledState",
+					"ByteProperty",
+					"ENodeEnabledState::Disabled",
+					"bCommentBubblePinned",
+					"bCommentBubbleVisible",
+					"NodeComment",
+					"StrProperty",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"OutputDelegate",
+					"delegate",
+					"then",
+					"exec",
+					"OtherActor",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:EventGraph.K2Node_Event_2": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "ba93ecb51fe1082264bce7b36a030ad9a678b2ad",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAuAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAHAAAAAAAAAAQAAAAACAAAAAkAAAAKAAAACwAAAAAA",
+						"AAAAAAAAEAwAAAANAAAAAAAAAAQAAAAAoAEAAA4AAAAPAAAAAgAAABAAAAABAAAAAwAAAAAAAAARAAAAAAAAAAQAAAAAEgAAABMAAAALAAAAAAAAAAAAAAAQ",
+						"FAAAAAsAAAAAAAAAAAAAABAVAAAAFgAAAAAAAABYAAAAAFQAAABUaGlzIG5vZGUgaXMgZGlzYWJsZWQgYW5kIHdpbGwgbm90IGJlIGNhbGxlZC4KRHJhZyBv",
+						"ZmYgcGlucyB0byBidWlsZCBmdW5jdGlvbmFsaXR5LgAXAAAAAQAAAAEAAAAYAAAAAQAAABkAAAAAAAAAEAAAAAhf66RFsuXyTq3ZmcKCbRvHCQAAAAAAAAAD",
+						"AAAAAAAAAAEAAAA81qNb4nXYTLDJamEQnlJdAQAAADzWo1viddhMsMlqYRCeUl0aAAAAAAAAAP8AAAAA/////wAAAAABGwAAAAkAAAACAAAAAAAAAAAAAAAA",
+						"AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAEAAAC4wBSQC1/WQr/pTz173tcpAQAAALjAFJALX9ZCv+lPPXve1ykcAAAAAAAAAP8AAAAA/////wAAAAABHQAAAAkAAAACAAAAAAAAAAAAAAAA",
+						"AgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAEAAAAoId949Uh0TakBxe93BPu4AQAAACgh33j1SHRNqQHF73cE+7geAAAAAAAAAP8AAAAA/////ycAAABEZWx0YSBTZWNvbmRzCkZsb2F0IChz",
+						"aW5nbGUtcHJlY2lzaW9uKQABHwAAACAAAAACAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAEAAAAMC4w",
+						"AAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+					]
+				},
+				"Objects": [
+					"-13",
+					"21",
+					null
+				],
+				"Names": [
+					"EventReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"ReceiveTick",
+					"None",
+					"bOverrideFunction",
+					"BoolProperty",
+					"NodePosY",
+					"IntProperty",
+					"EnabledState",
+					"EnumProperty",
+					"ENodeEnabledState",
+					"ByteProperty",
+					"ENodeEnabledState::Disabled",
+					"bCommentBubblePinned",
+					"bCommentBubbleVisible",
+					"NodeComment",
+					"StrProperty",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"OutputDelegate",
+					"delegate",
+					"then",
+					"exec",
+					"DeltaSeconds",
+					"real",
+					"float"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_FunctionEntry_0": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "838240855da4aa8a9f61ceca979bf4a8167f3bcc",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAuAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAHAAAAAAAAAAQAAAAACAAAAAkAAAAKAAAAAQAAAAEA",
+						"AAALAAAAAQAAAAwAAAAAAAAAEAAAAAi3DLulptCsSL+GbWWjyWSmCQAAAAAAAAABAAAAAAAAAAEAAADFSWkfFSq7QLXdgiBQPC1qAQAAAMVJaR8VKrtAtd2C",
+						"IFA8LWoNAAAAAAAAAP8AAAAA/////wAAAAABDgAAAAkAAAACAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAACAAAAAAAAAP8AAAAAAQAAAAAAAAADAAAAVSogCSsDoECkE6MNsZEkEQAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					"-13",
+					"22",
+					null,
+					"12"
+				],
+				"Names": [
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"NameProperty",
+					"UserConstructionScript",
+					"None",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"then",
+					"exec"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_MacroInstance_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "9d9e750755f90c32de8d1acb5c1459fb21cecdfe",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABfAAAAAAQAAAAFAAAAAAAAAAQAAAAAAAAAAAYAAAAFAAAAAAAAAAQAAAAAAQAAAAcAAAABAAAAAQAAAAgA",
+						"AAABAAAACQAAAAAAAAAQAAAACK8EyVUX/kVLqFX7YQG4n9sKAAAACwAAAAwAAAAAAAAABAAAAACABAAADQAAAAEAAAABAAAACAAAAAEAAAAJAAAAAAAAABAA",
+						"AAAIcxtchTPfGki+5zjpFks8cAoAAAAAAAAABgAAAAAAAAACAAAAKhx/y1y9J0uBXsPGkOlLjQIAAAAqHH/LXL0nS4Few8aQ6UuNDgAAAAAAAAD/AAAAAP//",
+						"//8AAAAAAA8AAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAD/AAAAAAAAAAAA",
+						"AAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAFMyU9FNB6kuF3uY15MXIqAIAAAAUzJT0U0HqS4Xe5jXkxcioEAAAAAAAAAD/AAAAAP//",
+						"//8AAAAAABEAAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAD/AAAAAAAAAAAA",
+						"AAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAbLncxn5PCEGTuMHDKPwS5AIAAABsudzGfk8IQZO4wcMo/BLkEgAAAAAAAAD/AAAAAP//",
+						"//8AAAAAABEAAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAD/AAAAAAEAAAAA",
+						"AAAABAAAAPGieDI7I6lBh/w4jMSRvaQAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA+qjLKqwCZkCcIuvmBUe5TgIAAAD6qMsqrAJm",
+						"QJwi6+YFR7lOEwAAAAAAAAD/AAAAAP////8AAAAAAQ8AAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAwAAAAAAAAD/AAAAAAEAAAAAAAAABQAAAM4x8km5QJ1AmbmtHJoRPaoAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAkabI",
+						"p/l6EECwSONT5icbygIAAACRpsin+XoQQLBI41PmJxvKFAAAAAAAAAD/AAAAAP////8AAAAAAREAAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAzztl",
+						"g93YmUGricwngCaMbgIAAADPO2WD3diZQauJzCeAJoxuFQAAAAAAAAD/AAAAAP////8AAAAAAQ8AAAAKAAAAAwAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-24",
+					"-2",
+					"23",
+					null,
+					"24",
+					"13"
+				],
+				"Names": [
+					"MacroGraphReference",
+					"StructProperty",
+					"GraphReference",
+					"/Script/Engine",
+					"MacroGraph",
+					"ObjectProperty",
+					"GraphBlueprint",
+					"GraphGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodeGuid",
+					"execute",
+					"exec",
+					"FirstIndex",
+					"int",
+					"LastIndex",
+					"LoopBody",
+					"Index",
+					"Completed"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_PromotableOperator_0": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "8635666b59d15ea81d6af8774016c005b73bc25f",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAQAAAAAAgAAAAMAAAAEAAAAAAAAAAAAAAAQBQAAAAYAAAABAAAABwAAAAEAAAAIAAAAAAAAAC4AAAAACQAAAAoAAAAAAAAABAAAAAAA",
+						"AAAACwAAAAEAAAAAAAAABAAAAAAMAAAADQAAAA4AAAAPAAAAAAAAAAQAAAAA8AMAABAAAAAPAAAAAAAAAAQAAAAAsAAAABEAAAAGAAAAAQAAABIAAAABAAAA",
+						"EwAAAAAAAAAQAAAACBMfWZeHCMZKq2WzTUp/CTsNAAAAAAAAAAMAAAAAAAAAAQAAACj1I5j1HFZHoDzrQ2DRp4UBAAAAKPUjmPUcVkegPOtDYNGnhRQAAAAA",
+						"AAAA/wAAAAD/////AAAAAAAVAAAADQAAAAIAAAAAAAAAAAAAAAACAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+						"/wAAAAABAAAAAAAAAAMAAAAr69A7l8HSRYTgSIPlU1CwAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAGWe8Tg9L2VEqLtQu4zIHMEB",
+						"AAAAZZ7xOD0vZUSou1C7jMgcwRYAAAAAAAAA/wAAAAD/////AAAAAAAVAAAADQAAAAIAAAAAAAAAAAAAAAACAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAACAAAAMQAAAAAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA8aJ4MjsjqUGH/DiMxJG9",
+						"pAEAAADxongyOyOpQYf8OIzEkb2kFwAAAAAAAAD/AAAAAP////8AAAAAARUAAAANAAAAAgAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAAGy53MZ+TwhBk7jBwyj8EuQAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AA=="
+					]
+				},
+				"Objects": [
+					"-19",
+					"24",
+					null,
+					"27",
+					"23"
+				],
+				"Names": [
+					"OperationName",
+					"NameProperty",
+					"Subtract",
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"Subtract_IntInt",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"A",
+					"int",
+					"B",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_PromotableOperator_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "24e8841c79563d0de49eecb3eeb458c21d9b83a5",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAQAAAAAAgAAAAMAAAAEAAAAAAAAAAAAAAAQBQAAAAYAAAABAAAABwAAAAEAAAAIAAAAAAAAAC4AAAAACQAAAAoAAAAAAAAABAAAAAAA",
+						"AAAACwAAAAEAAAAAAAAABAAAAAAMAAAADQAAAA4AAAAPAAAAAAAAAAQAAAAAwAUAABAAAAAPAAAAAAAAAAQAAAAAwP7//xEAAAAGAAAAAQAAABIAAAABAAAA",
+						"EwAAAAAAAAAQAAAACIMf0xNfK9ZNvPNFim2FjXINAAAAAAAAAAMAAAAAAAAAAQAAACu/DTPhxFJGmjvM+deTKSwBAAAAK78NM+HEUkaaO8z515MpLBQAAAAA",
+						"AAAA/wAAAAD/////AAAAAAAVAAAADQAAAAIAAAAAAAAAAAAAAAACAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+						"/wAAAAABAAAAAAAAAAMAAAAvuS+tAj/WTpg1vO2lOl/JAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAneRv5kRQlPpA6dLqrTOWgB",
+						"AAAACd5G/mRFCU+kDp0uqtM5aBYAAAAAAAAA/wAAAAD/////AAAAAAAVAAAADQAAAAIAAAAAAAAAAAAAAAACAAAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAACAAAAMQAAAAAAAgAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAHZINTcw8+0GGllKD9+0G",
+						"xwEAAAAdkg1NzDz7QYaWUoP37QbHFwAAAAAAAAD/AAAAAP////8AAAAAARUAAAANAAAAAgAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAD/AAAAAAEAAAAAAAAABAAAACFDkRr6Hl5KojM9axTTQgMAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AA=="
+					]
+				},
+				"Objects": [
+					"-19",
+					"25",
+					null,
+					"7",
+					"14"
+				],
+				"Names": [
+					"OperationName",
+					"NameProperty",
+					"Subtract",
+					"bDefaultsToPureFunc",
+					"BoolProperty",
+					"FunctionReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberParent",
+					"ObjectProperty",
+					"MemberName",
+					"Subtract_IntInt",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"A",
+					"int",
+					"B",
+					"ReturnValue"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "0ad76bbd2c89995bfef865bf527a898dbff717ce",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACGaB",
+						"tXYTyqBKkXo4ga13cgAKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAAABAAAPAAAADgAAAAAAAAAEAAAAAGABAAAQAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAjtfTnPH4vxSI4TS8TBbqo7DAAAAAAAAAACAAAAAAAAAAAAAAA/m1NIqzreSLKZ83WbXpM7AAAAAD+bU0irOt5IspnzdZte",
+						"kzsGAAAAAAAAAP8AAAAA/////wAAAAABEQAAABIAAAABAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAE",
+						"AAAAMC4wAAEAAAAAAAAA/wAAAAABAAAAAAAAAAIAAABzzJxCohW6Qr4qCDv8azSFAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO9v",
+						"UqmzVZVLgkCJpsxnpycAAAAA729SqbNVlUuCQImmzGenJxMAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAU",
+						"AAAADAAAAAMAAAAAAAAAAAAAAAABAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"26",
+					null,
+					"16",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"AreaSize",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"real",
+					"double",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_11": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "7206cb8e93b8b3ed753c37dcaa554007e25b6641",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACEkP",
+						"E/DpHy5Hl4kCMbw5npsKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAFADAAAPAAAADgAAAAAAAAAEAAAAAKAAAAAQAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAgCZ469Op1TQI8Z42VWwwM6DAAAAAAAAAACAAAAAAAAAAAAAAAr69A7l8HSRYTgSIPlU1CwAAAAACvr0DuXwdJFhOBIg+VT",
+						"ULAGAAAAAAAAAP8AAAAA/////wAAAAABEQAAAAwAAAABAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAADAAAgAA",
+						"ADAAAQAAAAAAAAD/AAAAAAEAAAAAAAAAAgAAACj1I5j1HFZHoDzrQ2DRp4UAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwjsXDIPU",
+						"E0icnFMTjjv3kAAAAADCOxcMg9QTSJycUxOOO/eQEgAAAAgAAAAABwAAAEsyTm9kZQAHAAAAVGFyZ2V0AAcAAABUYXJnZXQAAAAAAP////8AAAAAABMAAAAM",
+						"AAAAAwAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAD/AAAAAAAAAAAAAAAAAQAAAAEAAAAA",
+						"AAAAAAAAAAAAAAAAAAAAAQAAAA=="
+					]
+				},
+				"Objects": [
+					"27",
+					null,
+					"24",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"NumberOfObjects",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"int",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_12": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "aafd39e3ece3ae95ad6e647e33bf430b251bbf3e",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAqAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAAIAAAAAAAAAAAAAAAQCQAAAAoAAAALAAAAAAAAAAQA",
+						"AAAA8AUAAAwAAAALAAAAAAAAAAQAAAAA4P///w0AAAABAAAAAQAAAA4AAAABAAAADwAAAAAAAAAQAAAACJCI255AooZIjykm6q36O80JAAAAAAAAAAIAAAAA",
+						"AAAAAAAAAJ80LIClhhBCnl09UBH4Wo8AAAAAnzQsgKWGEEKeXT1QEfhajwYAAAAAAAAA/wAAAAD/////AAAAAAEQAAAACQAAAAEAAAAAAAAAAAAAAAACAAAA",
+						"CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA/wAAAAABAAAAAAAAAAMAAADzazPbhB2gRr/0JPUrkxU/AAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALTQVb7WMgJLhh3XbyWqhDIAAAAAtNBVvtYyAkuGHddvJaqEMhEAAAAIAAAAAAcAAABLMk5vZGUABwAA",
+						"AFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAQAAAACQAAAAQAAAAAAAAAAAAAAAACAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"28",
+					"-17",
+					null,
+					"13",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"EnvironmentObjects",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"object",
+					"self"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_13": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "6e4255545e39a0868de264a58ea8857b15733d13",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACB+F",
+						"ZD0pcMxNp7DGzutVEOkKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAMADAAAPAAAADgAAAAAAAAAEAAAAALD+//8QAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAgwEDdtdodFQY95v1Xy9JrNDAAAAAAAAAACAAAAAAAAAAAAAAB18cwJpwo5SqOV23BLqD+wAAAAAHXxzAmnCjlKo5XbcEuo",
+						"P7AGAAAAAAAAAP8AAAAA/////wAAAAABEQAAAAwAAAABAAAAAQAAAAAAAAAAAgAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC",
+						"AAAAAAAAAP8AAAAAAQAAAAAAAAADAAAAKev5t2Xw4EGoIsG/zUZ6JQAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABlKD5twJAXQ53j",
+						"hFhJXutRAAAAAGUoPm3AkBdDneOEWEle61ESAAAACAAAAAAHAAAASzJOb2RlAAcAAABUYXJnZXQABwAAAFRhcmdldAAAAAAA/////wAAAAAAEQAAAAwAAAAE",
+						"AAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAP8AAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA",
+						"AAAAAAAAAAAAAAABAAAA"
+					]
+				},
+				"Objects": [
+					"29",
+					"-23",
+					null,
+					"7",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"EnvironmentMeshes",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"object",
+					"self"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_2": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "e2db81b637416526e9beabde56a744e4ea7ac31c",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACGaB",
+						"tXYTyqBKkXo4ga13cgAKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAAABAAAPAAAADgAAAAAAAAAEAAAAAMABAAAQAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAjZaoaBvBCJT4vxdxkZjX0/DAAAAAAAAAACAAAAAAAAAAAAAACOb6FChv+vSZ5uIxMviQBWAAAAAI5voUKG/69Jnm4jEy+J",
+						"AFYGAAAAAAAAAP8AAAAA/////wAAAAABEQAAABIAAAABAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAE",
+						"AAAAMC4wAAEAAAAAAAAA/wAAAAABAAAAAAAAAAIAAABzzJxCohW6Qr4qCDv8azSFAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK8F",
+						"ZaeCXtRKuiA75hHsEcYAAAAArwVlp4Je1Eq6IDvmEewRxhMAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAU",
+						"AAAADAAAAAMAAAAAAAAAAAAAAAABAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"30",
+					null,
+					"18",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"AreaSize",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"real",
+					"double",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_3": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "84c8cae899697fa37ebbca70cc711fa64daba162",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACPxM",
+						"pEzoif1Ht/V2o+2NajkKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAMACAAAPAAAADgAAAAAAAAAEAAAAAJADAAAQAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAhtbsgD4ofhS4ymuwZjRIN2DAAAAAAAAAACAAAAAAAAAAAAAAB0xGJ+mHEORoDhG9B2Xxv+AAAAAHTEYn6YcQ5GgOEb0HZf",
+						"G/4GAAAAAAAAAP8AAAAA/////wAAAAABEQAAABIAAAABAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAE",
+						"AAAAMC4wAAEAAAAAAAAA/wAAAAABAAAAAAAAAAIAAADQbuXuFgn7QrY1jmRew/OBAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJpn",
+						"pwOMUylLpTt8BvP5ZDAAAAAAmmenA4xTKUulO3wG8/lkMBMAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAU",
+						"AAAADAAAAAMAAAAAAAAAAAAAAAABAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"31",
+					null,
+					"15",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"MinScale",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"real",
+					"double",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_4": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "ac5f459e63a4d30edf6e2a232ece07098126cee4",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAABbAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAABAAAAAQAAAAgAAAABAAAACQAAAAAAAAAQAAAACC5I",
+						"3rY4lOFMjGmMyCcFozcKAAAACwAAAAAAAAAAAAAAEAwAAAANAAAADgAAAAAAAAAEAAAAAMACAAAPAAAADgAAAAAAAAAEAAAAANADAAAQAAAAAQAAAAEAAAAI",
+						"AAAAAQAAAAkAAAAAAAAAEAAAAAg66xrFmt79QY9pIOUudFW/DAAAAAAAAAACAAAAAAAAAAAAAABigpmI3qlURpfZXDD89oMJAAAAAGKCmYjeqVRGl9lcMPz2",
+						"gwkGAAAAAAAAAP8AAAAA/////wAAAAABEQAAABIAAAABAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADAuMAAE",
+						"AAAAMC4wAAEAAAAAAAAA/wAAAAABAAAAAAAAAAIAAABzzJxCohW6Qr4qCDv8azSFAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/6",
+						"u1V9MGFNmdP4w2ugW1cAAAAAL/q7VX0wYU2Z0/jDa6BbVxMAAAAIAAAAAAcAAABLMk5vZGUABwAAAFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAU",
+						"AAAADAAAAAMAAAAAAAAAAAAAAAABAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"32",
+					null,
+					"15",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"MaxScale",
+					"MemberGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"real",
+					"double",
+					"self",
+					"object"
+				]
+			}
+		},
+		"ProceduralGenerationBP:UserConstructionScript.K2Node_VariableGet_9": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "ad9e3dfd5e6f9ac19e1b5102b63774ae5064affb",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAABAAAAAwAAAAAAAAAqAAAAAAQAAAAFAAAAAAAAAAQAAAAABgAAAAcAAAAIAAAAAAAAAAAAAAAQCQAAAAoAAAALAAAAAAAAAAQA",
+						"AAAAEAEAAAwAAAALAAAAAAAAAAQAAAAAkP///w0AAAABAAAAAQAAAA4AAAABAAAADwAAAAAAAAAQAAAACFYm9FX+DQxFnXluYX8ZrAcJAAAAAAAAAAIAAAAA",
+						"AAAAAAAAACYUQAq/+N9GqlcdBXLZgRAAAAAAJhRACr/430aqVx0FctmBEAYAAAAAAAAA/wAAAAD/////AAAAAAEQAAAACQAAAAEAAAAAAAAAAAAAAAACAAAA",
+						"CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA/wAAAAABAAAAAAAAAAMAAADIQrLn2sQ+Ra+FRnSLj6HRAAAAAAEAAAAB",
+						"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJD7xWqOCrFGr3FUeZMje+4AAAAAkPvFao4KsUavcVR5kyN77hEAAAAIAAAAAAcAAABLMk5vZGUABwAA",
+						"AFRhcmdldAAHAAAAVGFyZ2V0AAAAAAD/////AAAAAAAQAAAACQAAAAQAAAAAAAAAAAAAAAACAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+						"AAAAAAAAAAIAAAAAAAAA/wAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA="
+					]
+				},
+				"Objects": [
+					"33",
+					"-17",
+					null,
+					"12",
+					"2"
+				],
+				"Names": [
+					"VariableReference",
+					"StructProperty",
+					"MemberReference",
+					"/Script/Engine",
+					"MemberName",
+					"NameProperty",
+					"EnvironmentObjects",
+					"bSelfContext",
+					"BoolProperty",
+					"None",
+					"NodePosX",
+					"IntProperty",
+					"NodePosY",
+					"NodeGuid",
+					"Guid",
+					"/Script/CoreUObject",
+					"object",
+					"self"
+				]
+			}
+		},
+		"Default__ProceduralGenerationBP_C": {
+			"Data": {
+				"Digest": "04ae028aca35209e67944db6c7f9c8fd9c0d485a",
+				"Base64": [
+					"AAAAAAABAAAAAQAAAAIAAAAAAAAAEAAAAAIfhWQ9KXDMTaewxs7rVRDpAwAAAAAAAAABAAAAAgAAAAMAAAAEAAAAAAAAAAgAAAACZoG1dhPKoEqRejiBrXdy",
+					"AAAAAAAAiLNABQAAAAQAAAAAAAAACAAAAAL8TKRM6In9R7f1dqPtjWo5mpmZmZmZ6T8GAAAABAAAAAAAAAAIAAAAAi5I3rY4lOFMjGmMyCcFozcAAAAAAAD4",
+					"PwcAAAAIAAAAAAAAAAQAAAACSQ8T8OkfLkeXiQIxvDmem2QAAAAJAAAAAwAAAA=="
+				]
+			},
+			"Objects": [
+				"-38",
+				"-39",
+				"-40",
+				null
+			],
+			"Names": [
+				"EnvironmentMeshes",
+				"ArrayProperty",
+				"ObjectProperty",
+				"AreaSize",
+				"DoubleProperty",
+				"MinScale",
+				"MaxScale",
+				"NumberOfObjects",
+				"IntProperty",
+				"None"
+			]
+		},
+		"ProceduralGenerationBP_C:DefaultSceneRoot_GEN_VARIABLE": {
+			"BaseClassAutoGen": {
+				"Data": "Base64:AAAAAAABAAAAAAAAAAAAAAAQAgAAAAAAAAAAAAAA",
+				"Names": [
+					"bVisualizeComponent",
+					"BoolProperty",
+					"None"
+				]
+			}
+		},
+		"ProceduralGenerationBP_C:SimpleConstructionScript_0.SCS_Node_0": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "289d72cfdc1b6acdcd760f3564311559a43a4c9d",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAQAAAAAAAAAAAIAAAABAAAAAAAAAAQAAAAAAQAAAAMAAAAEAAAAAAAAACkAAAAACAAAAAAEAAAAU0NTAAgAAABEZWZhdWx0AAgAAABE",
+						"ZWZhdWx0AAAAAAAFAAAABgAAAAEAAAABAAAAAAAAAAgAAAAAAQAAAAIAAAAHAAAACAAAAAEAAAAJAAAAAQAAAAoAAAAAAAAAEAAAAAgZSVMBJU3gQowf9AEm",
+						"bT91CwAAAAwAAAAAAAAABAAAAAANAAAADgAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-20",
+					"35",
+					"37"
+				],
+				"Names": [
+					"ComponentClass",
+					"ObjectProperty",
+					"ComponentTemplate",
+					"CategoryName",
+					"TextProperty",
+					"ChildNodes",
+					"ArrayProperty",
+					"VariableGuid",
+					"StructProperty",
+					"Guid",
+					"/Script/CoreUObject",
+					"InternalVariableName",
+					"NameProperty",
+					"DefaultSceneRoot",
+					"None"
+				]
+			}
+		},
+		"ProceduralGenerationBP_C:SimpleConstructionScript_0.SCS_Node_1": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "16d91be96262e40d6650686bcf12f487958fcd21",
+					"Base64": [
+						"AAAAAAABAAAAAAAAAAQAAAAAAAAAAAIAAAABAAAAAAAAAAQAAAAAAQAAAAMAAAAEAAAAAAAAACkAAAAACAAAAAAEAAAAU0NTAAgAAABEZWZhdWx0AAgAAABE",
+						"ZWZhdWx0AAAAAAAFAAAABgAAAAEAAAAHAAAAAQAAAAgAAAAAAAAAEAAAAAhVSttqskNjTrWvLLmfE2+2CQAAAAoAAAAAAAAABAAAAAALAAAADAAAAAAAAAA="
+					]
+				},
+				"Objects": [
+					"-17",
+					"6"
+				],
+				"Names": [
+					"ComponentClass",
+					"ObjectProperty",
+					"ComponentTemplate",
+					"CategoryName",
+					"TextProperty",
+					"VariableGuid",
+					"StructProperty",
+					"Guid",
+					"/Script/CoreUObject",
+					"InternalVariableName",
+					"NameProperty",
+					"EnvironmentObjects",
+					"None"
+				]
+			}
+		},
+		"ProceduralGenerationBP_C:SimpleConstructionScript_0": {
+			"BaseClassAutoGen": {
+				"Data": {
+					"Digest": "1f89cbc65db60e424e27ca19bd46581d7c2c361b",
+					"Base64": [
+						"AAAAAAABAAAAAQAAAAIAAAAAAAAACAAAAAABAAAAAAAAAAMAAAABAAAAAQAAAAIAAAAAAAAADAAAAAACAAAAAAAAAAEAAAAEAAAAAgAAAAAAAAAEAAAAAAAA",
+						"AAAFAAAAAAAAAA=="
+					]
+				},
+				"Objects": [
+					"36",
+					"37"
+				],
+				"Names": [
+					"RootNodes",
+					"ArrayProperty",
+					"ObjectProperty",
+					"AllNodes",
+					"DefaultSceneRootNode",
+					"None"
+				]
+			}
+		}
+	},
+	"Summary": {
+		"Tag": -1641380927,
+		"LegacyFileVersion": -9,
+		"LegacyUE3Version": 864,
+		"FileVersionUE4": 522,
+		"FileVersionUE5": 1018,
+		"FileVersionLicenseeUE4": 0,
+		"SavedHash": {
+			"Data": "Base64:1/PKZgwKuPf1IGpiUDKNz95tOt4="
+		},
+		"TotalHeaderSize": 0,
+		"CustomVersions": [
+			{
+				"Key": "12F88B9F88754AFCA67CD90C383ABD29",
+				"Version": 49
+			},
+			{
+				"Key": "375EC13C06E448FBB50084F0262A717E",
+				"Version": 4
+			},
+			{
+				"Key": "59DA5D5212324948B878597870B8E98B",
+				"Version": 9
+			},
+			{
+				"Key": "5B4C06B724634AF8805BBF70CDF5D0DD",
+				"Version": 15
+			},
+			{
+				"Key": "601D1886AC644F84AA16D3DE0DEAC7D6",
+				"Version": 268
+			},
+			{
+				"Key": "697DD581E64F41ABAA4A51ECBEB7B628",
+				"Version": 123
+			},
+			{
+				"Key": "9C54D522A8264FBE9421074661B482D0",
+				"Version": 44
+			},
+			{
+				"Key": "B02B49B5BB2044E9A30432B752E40360",
+				"Version": 3
+			},
+			{
+				"Key": "B0D832E41F894F0DACCF7EB736FD4AA2",
+				"Version": 10
+			},
+			{
+				"Key": "CFFC743F43B04480939114DF171D2073",
+				"Version": 37
+			},
+			{
+				"Key": "D89B5E4224BD4D468412ACA8DF641779",
+				"Version": 68
+			},
+			{
+				"Key": "E4B068EDF49442E9A231DA0B2E46BB41",
+				"Version": 40
+			},
+			{
+				"Key": "E70863686B234C5884391B7016265E91",
+				"Version": 20
+			}
+		],
+		"PackageName": "/Game/ProceduralGenerationBP",
+		"PackageFlags": 0,
+		"NameCount": 208,
+		"NameOffset": 0,
+		"SoftObjectPathsCount": 0,
+		"SoftObjectPathsOffset": 0,
+		"LocalizationId": "5E0D4396888E2592A09CF67889472AFF",
+		"GatherableTextDataCount": 0,
+		"GatherableTextDataOffset": 0,
+		"ExportCount": 38,
+		"ExportOffset": 0,
+		"ImportCount": 40,
+		"ImportOffset": 0,
+		"CellExportCount": 0,
+		"CellExportOffset": 0,
+		"CellImportCount": 0,
+		"CellImportOffset": 0,
+		"MetaDataOffset": 0,
+		"DependsOffset": 0,
+		"SoftPackageReferencesCount": 0,
+		"SoftPackageReferencesOffset": 0,
+		"SearchableNamesOffset": 0,
+		"ThumbnailTableOffset": 0,
+		"ImportTypeHierarchiesCount": 0,
+		"ImportTypeHierarchiesOffset": 0,
+		"PersistentGuid": "15C2ADD54272FB6645143A9A58F3BADD",
+		"GenerationCount": 1,
+		"Generations": [
+			{
+				"ExportCount": 38,
+				"NameCount": 208
+			}
+		],
+		"SavedByEngineVersion": "5.8.1-56057345+++UE5+Release-5.8",
+		"CompatibleWithEngineVersion": "5.8.0-55116800+++UE5+Release-5.8",
+		"CompressionFlags": 0,
+		"CompressedChunks": [],
+		"PackageSource": 1275967654,
+		"AdditionalPackagesToCook": [],
+		"AssetRegistryDataOffset": 0,
+		"BulkDataStartOffset": 0,
+		"WorldTileInfoDataOffset": 0,
+		"ChunkIDs": [],
+		"PreloadDependencyCount": 0,
+		"PreloadDependencyOffset": 0,
+		"NamesReferencedFromExportDataCount": 165,
+		"PayloadTocOffset": -1,
+		"DataResourceOffset": 0
+	}
+}
