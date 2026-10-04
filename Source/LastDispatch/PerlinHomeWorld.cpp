@@ -69,7 +69,7 @@ void APerlinHomeWorld::Generate()
             if (X < Side-1 && Y < Side-1)
             {
                 const int32 A = X * Side + Y;
-                T.Append({A, A+Side, A+Side+1, A, A+Side+1, A+1});
+                T.Append({A, A+Side+1, A+Side, A, A+1, A+Side+1});
             }
         }
     }
@@ -126,4 +126,5 @@ void APerlinHomeWorld::Tick(float DeltaSeconds)
         GEngine->AddOnScreenDebugMessage(static_cast<uint64>(GetUniqueID()), 0.1f, FColor::White,
             FString::Printf(TEXT("Will you find your way home?   Seeds: [1] 1234  [2] 5678  [3] 9012\nSeed %d | Returns home: %d | Road grade: 0 degrees"), Seed, Laps));
 }
+
 
