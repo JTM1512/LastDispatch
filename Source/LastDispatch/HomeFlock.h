@@ -2,9 +2,18 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "GameFramework/GameModeBase.h"
 #include "HomeFlock.generated.h"
 
 class UStaticMeshComponent;
+
+UCLASS()
+class LASTDISPATCH_API AHomeFlockGameMode : public AGameModeBase
+{
+    GENERATED_BODY()
+public:
+    AHomeFlockGameMode();
+};
 
 UCLASS()
 class LASTDISPATCH_API AHomeFlock : public AActor

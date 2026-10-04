@@ -7,6 +7,12 @@
 #include "Camera/CameraActor.h"
 #include "EngineUtils.h"
 #include "InputCoreTypes.h"
+#include "Misc/CommandLine.h"
+
+AHomeFlockGameMode::AHomeFlockGameMode()
+{
+    DefaultPawnClass = nullptr;
+}
 
 AHomeFlock::AHomeFlock()
 {
@@ -43,6 +49,9 @@ void AHomeFlock::ResetFlock()
 void AHomeFlock::BeginPlay()
 {
     Super::BeginPlay();
+    FParse::Value(FCommandLine::Get(), TEXT("FlockSeparation="), Separation);
+    FParse::Value(FCommandLine::Get(), TEXT("FlockCohesion="), Cohesion);
+    FParse::Value(FCommandLine::Get(), TEXT("FlockAlignment="), Alignment);
     ResetFlock();
     if (APlayerController* PC = GetWorld()->GetFirstPlayerController())
         for (TActorIterator<ACameraActor> It(GetWorld()); It; ++It) { PC->SetViewTarget(*It); break; }
